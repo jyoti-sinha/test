@@ -1,3 +1,3 @@
 # test
 
-this folder is for test purpose only
+this folder is created for testing purpose only
